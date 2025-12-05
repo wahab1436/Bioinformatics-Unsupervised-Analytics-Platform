@@ -1,4 +1,3 @@
-# CORE (used in provided code)
 streamlit==1.28.0
 pandas==1.5.3
 numpy==1.24.3
@@ -8,19 +7,9 @@ seaborn==0.12.2
 scikit-learn==1.3.0
 scipy==1.10.1
 umap-learn==0.5.3
-
-# FOR FILE UPLOAD (mentioned in blueprint)
 openpyxl==3.1.2
 pyarrow==12.0.1
 
-# FOR CLUSTERING (would be needed)
-scikit-learn==1.3.0  # already above
 
-# FOR ANOMALY DETECTION (would be needed)
-scikit-learn==1.3.0  # already above
 
-# FOR PATHWAY ANALYSIS (mentioned but not in provided code)
-# gseapy==1.0.4  # NOT USED in provided code
 
-# FOR SURVIVAL ANALYSIS (mentioned but not in provided code)
-# lifelines==0.27.8  # NOT USED in provided code
